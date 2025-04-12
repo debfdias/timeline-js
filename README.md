@@ -2,11 +2,12 @@
 
 A React-based timeline visualization component that efficiently arranges items in horizontal lanes.
 
-![Timeline Component Showcase](./timeline-showcase.png)
+<img width="1378" alt="Screenshot 2025-04-12 at 11 39 45" src="https://github.com/user-attachments/assets/2c5d596b-e7f0-4b34-a2d5-29527e8e3940" />
+
 
 ## Features
 
-- Efficient lane assignment using the provided `assignLanes` algorithm
+- Efficient lane assignment using the provided `assignLanes` method
 - Zoom in/out functionality
 - Responsive design
 - Clean, modern UI with hover effects
